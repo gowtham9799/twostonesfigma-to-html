@@ -1,0 +1,124 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.homeimg{
+    width: 60%;
+    height: 60rem;
+    background-image:url(./images/Union.png);
+    background-repeat: no-repeat;
+}
+.navrow{
+    height: 90px;
+}
+.homelogo{
+    width: 60%;
+    height:60px;
+    background-image:url(./images/logo-dark.png);
+    background-repeat: no-repeat;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+.nav01{
+    color:orangered;
+    transition: 0.5s;
+    padding-right: 50px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav1{
+    color: rgb(10, 9, 9);
+    transition: 0.5s;
+    padding-right: 80px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav1:hover{
+    transform:scale(1.1);
+    transition: 0.5s;
+    color: orangered;
+}
+ul{
+    padding-top: 29px;
+   
+}
+li{
+    list-style-type: none;
+}
+.navtoggle{
+    width: 50px;
+    height: 50px;
+    color: rgb(4, 6, 8);
+}
+.togglecolor{
+    color: rgb(10, 11, 11);
+}
+.hometext1{
+color: rgb(12, 11, 11);
+text-align: center;
+font-size: 120px;
+margin-top: 140px!important;
+font-weight:bolder;
+}
+.hometext2{
+    color: rgb(247, 0, 0);
+}
+.hometext3{
+    color: rgb(240, 8, 8);
+    text-align: start;
+    font-size: 120px;
+    font-weight: bolder;
+}
+.hometext4{
+    color:rgb(5, 3, 3);
+text-align: center;
+margin-top: 30px!important;
+font-weight: bolder;
+}
+.hometext5{
+    width: 60%;
+    height: 60px;
+   color:rgb(252, 246, 246);
+   background-color: rgb(255, 55, 0);
+   margin-top: 50px;
+   font-weight: bolder;
+   font-size: larger;
+}
+.hometext6{
+    width: 60%;
+    height: 60px;
+   color:rgb(5, 3, 3);
+   background-color: white;
+   margin-top: 50px;
+   font-weight: bolder;
+   font-size: larger;
+}
+.buttons{
+    margin-top: 30px;
+    width: 100%;
+}
+
+
+.ostext3{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 80px;
+    margin-left: 60px;
+    
+}
+.ostext4{
+    font-size: 20px;
+    padding-top: 5px;
+    margin-left: 60px;
+}
+.troicon{
+    width: 40px;
+    height: 40px;
+}
+.owim1:hover{
+    transform:scale(1.1);
+    transition: 0.5s;
+    color: orangered;
+}
